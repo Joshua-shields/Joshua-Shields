@@ -4,7 +4,7 @@
 I'm a second-year computer science student from Cape Town. Here's some info about me!
 
 ## Skills
-- Programming Languages: Python, Java, C++
+- Programming Languages: Python, Java, C#
 - Web Development: HTML, CSS, JavaScript
 - Databases: SQL
 - Version Control: Git
