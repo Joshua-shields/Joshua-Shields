@@ -3,7 +3,7 @@
 ## About Me
 I'm a second-year computer science student from Cape Town
 
-💻 Technologies I work with:
+💻 Current Tech Stack:
 #️⃣ C#
 ☕ Java
 🐍 Python
