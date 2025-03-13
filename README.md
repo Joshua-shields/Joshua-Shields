@@ -7,6 +7,7 @@ I'm a Final-year computer science student from Cape Town
 #️⃣ C#
 ☕ Java
 🐍 Python
+🅺  Kotlin
 🍃 MongoDB
 🐬 MySQL
 🌐 HTML
