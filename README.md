@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 Final-year Computer Science student from Cape Town
-- 
+
 ## 💻 Tech Stack
 
 ### Languages
