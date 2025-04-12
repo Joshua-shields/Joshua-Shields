@@ -12,3 +12,4 @@ I'm a Final-year computer science student from Cape Town
 - ![SQL](https://img.icons8.com/color/48/000000/sql.png) SQL
 - ![HTML](https://img.icons8.com/color/48/000000/html-5-logo.png) HTML
 - ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
+
