@@ -9,6 +9,6 @@ I'm a Final-year computer science student from Cape Town
 - ![Python](https://img.icons8.com/color/48/000000/python.png) Python
 - ![Kotlin](https://img.icons8.com/color/48/000000/kotlin.png) Kotlin
 - ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
-- ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) MySQL
+- ![SQL](https://img.icons8.com/color/48/000000/sql.png) SQL
 - ![HTML](https://img.icons8.com/color/48/000000/html-5-logo.png) HTML
 - ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
