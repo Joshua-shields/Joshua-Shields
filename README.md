@@ -1,8 +1,5 @@
 # Hi there, I'm Joshua 👋
 
-## About Me
-- 🎓 Final-year Computer Science student from Cape Town
-
 ## 💻 Tech Stack
 
 ### Languages
@@ -35,7 +32,5 @@
 ## 📊 GitHub Stats
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joshua-Shields&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshua-Shields&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
