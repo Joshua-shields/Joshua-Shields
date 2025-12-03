@@ -29,8 +29,5 @@
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
 </p>
 
-## 📊 GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joshua-Shields&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
